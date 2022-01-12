@@ -1,7 +1,7 @@
 ## Meu nome é Hernan Borges dos Santos 👋.
 
   Desenvolvedor FullStack, com formação em Ciência da Computacão pela Universidade Católica de Brasília/DF,
- tendo 3 anos de vivência em empresas de tecnologia, desempenhando atividades relacionadas a front-end e a back-end usando Javascript, Node.js e Vue.js.
+ tendo vivência em empresas de tecnologia, desempenhando atividades relacionadas a front-end e a back-end usando Javascript, Node.js e Frameworks diversos.
   Entusiasta de tecnologias relacionadas a sistemas de informação geograficas (SIG).
   
 ##### Esses são meus contatos:
